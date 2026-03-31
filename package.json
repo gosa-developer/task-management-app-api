@@ -1,0 +1,33 @@
+{
+  "name": "task-management-app-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000a\u0000s\u0000k\u0000-\u0000m\u0000a\u0000n\u0000a\u0000g\u0000e\u0000m\u0000e\u0000n\u0000t\u0000-\u0000a\u0000p\u0000p\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosa-developer/task-management-app-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gosa-developer/task-management-app-api/issues"
+  },
+  "homepage": "https://github.com/gosa-developer/task-management-app-api#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
